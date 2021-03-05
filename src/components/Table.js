@@ -38,8 +38,3 @@ export default function Table({ columns, data }) {
     </table>
   );
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
